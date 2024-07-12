@@ -25,9 +25,9 @@ Este projeto é um sistema para controle de clientes e entregas, permitindo o ca
 
 
  **Baixando as imagens**:
-    - Certifique-se de ter o Docker instalado na sua máquina.
-    - No diretório do seu projeto, existe um arquivo chamado `docker-compose.yml`.
-    - Dentro desse arquivo estão as configurações da do Docker-compose. 
+ - Certifique-se de ter o Docker instalado na sua máquina.
+ - No diretório do seu projeto, existe um arquivo chamado `docker-compose.yml`.
+ - Dentro desse arquivo estão as configurações da do Docker-compose. 
         ```yaml
         version: '3.8'
         services:
@@ -42,7 +42,7 @@ Este projeto é um sistema para controle de clientes e entregas, permitindo o ca
         ```
     
     
-  - Execute o comando no mesmo diretório onde está o `docker-compose.yml`:
+ - Execute o comando no mesmo diretório onde está o `docker-compose.yml`:
         ```
         docker-compose up
         ```
