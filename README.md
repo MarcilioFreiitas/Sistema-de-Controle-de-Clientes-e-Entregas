@@ -28,7 +28,7 @@ Este projeto é um sistema para controle de clientes e entregas, permitindo o ca
  - Certifique-se de ter o Docker instalado na sua máquina.
  - No diretório do seu projeto, existe um arquivo chamado `docker-compose.yml`.
  - Dentro desse arquivo estão as configurações da do Docker-compose. 
-        ```yaml
+       ``` yaml
         version: '3.8'
         services:
           frontend:
@@ -39,7 +39,7 @@ Este projeto é um sistema para controle de clientes e entregas, permitindo o ca
             image: marcilio777/maximatech:backend
             ports:
               - "8080:8080"
-        ```
+       ```
     
     
  - Execute o comando  ``` docker-compose up ``` no mesmo diretório onde está o `docker-compose.yml`, isso baixará as imagens necessárias e iniciará os serviços. 🚀
