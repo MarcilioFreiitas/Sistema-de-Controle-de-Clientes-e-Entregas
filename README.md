@@ -52,8 +52,8 @@ Este projeto é um sistema para controle de clientes e entregas, permitindo o ca
     - Se quiser forçar a recriação de todos os containers, use a flag `--force-recreate`.
 
  **Acessando sua aplicação** 🚀
-    - Acesse a aplicação no navegador ou por meio de chamadas HTTP para o serviço definido no `docker-compose.yml`.
-    - http://localhost:4200/
+ - Acesse a aplicação no navegador ou por meio de chamadas HTTP para o serviço definido no `docker-compose.yml`.
+ - http://localhost:4200/
  
   **Documentação de API** 🚀
   - Acesse a documentação da API de cadastro de clientes no endereço: http://localhost:8080/swagger-ui/index.html
