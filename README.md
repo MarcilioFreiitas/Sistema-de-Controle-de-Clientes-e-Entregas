@@ -23,23 +23,7 @@ Este projeto é um sistema para controle de clientes e entregas, permitindo o ca
 
 ## Como Executar o Projeto ▶️
 
-1. **Clone este repositório:**
 
-   ```
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   ```
-
-2. **Acesse a pasta do projeto:**
-
-   ```
-   cd nome-do-projeto
-   ```
-
-3. **Compile e execute a aplicação back-end:**
-
-   ```
-   ./mvnw spring-boot:run
-   ```
 
 
 
