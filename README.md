@@ -1,4 +1,4 @@
-# Sistema de Controle de Clientes e Entregas 🚚🌟
+# Sistema de Controle de Clientes e Entregas 🚚
 
 Este projeto é um sistema para controle de clientes e entregas, permitindo o cadastro de clientes com informações geográficas e visualização no mapa. Vamos mergulhar nos detalhes:
 
