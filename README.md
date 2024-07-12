@@ -58,6 +58,8 @@ Este projeto é um sistema para controle de clientes e entregas, permitindo o ca
     
    **Acesso ao banco de dados** 🚀
   - Acesse o banco de dados da aplicação no endereço: http://localhost:8080/h2-console
+
+   **Link do frontend:** https://github.com/MarcilioFreiitas/Sistema-de-Controle-de-Clientes-e-Entregas-Frontend 
    
 
 
