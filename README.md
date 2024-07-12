@@ -51,7 +51,9 @@ Este projeto é um sistema para controle de clientes e entregas, permitindo o ca
  - Acesse a aplicação no navegador ou por meio de chamadas HTTP para o serviço definido no `docker-compose.yml`.
  - http://localhost:4200/
  
-  **Documentação de API** 🚀
+  **Documentação de API com Swagger** 🚀
+   - O Swagger é uma ferramenta que simplifica o desenvolvimento e o consumo de APIs (Interfaces de Programação de Aplicativos). Ele fornece uma documentação automática, interativa e padronizada, tornando a comunicação entre equipes de desenvolvedores e a integração de 
+     serviços mais eficaz1.
   - Acesse a documentação da API de cadastro de clientes no endereço: http://localhost:8080/swagger-ui/index.html
     
    **Acesso ao banco de dados** 🚀
