@@ -26,8 +26,8 @@ Este projeto é um sistema para controle de clientes e entregas, permitindo o ca
 
  **Baixando as imagens**:
     - Certifique-se de ter o Docker instalado na sua máquina.
-    - No diretório do seu projeto, crie um arquivo chamado `docker-compose.yml`.
-    - Dentro desse arquivo, defina os serviços da sua aplicação. Por exemplo:
+    - No diretório do seu projeto, existe um arquivo chamado `docker-compose.yml`.
+    - Dentro desse arquivo estão as configurações da do Docker-compose. 
         ```yaml
         version: '3.8'
         services:
@@ -41,7 +41,7 @@ Este projeto é um sistema para controle de clientes e entregas, permitindo o ca
               - "8080:8080"
         ```
     - Execute o comando no mesmo diretório onde está o `docker-compose.yml`:
-        ```bash
+        ```
         docker-compose up
         ```
     - Isso baixará as imagens necessárias e iniciará os serviços. 🚀
@@ -54,7 +54,7 @@ Este projeto é um sistema para controle de clientes e entregas, permitindo o ca
     - http://localhost:4200/
  
   **Documentação de API ** 🚀
-  - Acesse a documentação da API no endereço: http://localhost:8080/swagger-ui/index.html
+  - Acesse a documentação da API de cadastro de clientes no endereço: http://localhost:8080/swagger-ui/index.html
     
    **Acesso ao banco de dados ** 🚀
     - Acesse o banco de dados da aplicação no endereço: http://localhost:8080/h2-console
