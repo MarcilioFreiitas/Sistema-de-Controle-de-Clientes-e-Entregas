@@ -42,7 +42,7 @@ Este projeto é um sistema para controle de clientes e entregas, permitindo o ca
         ```
     
     
- - Execute o comando  ``` docker-compose up ``` no mesmo diretório onde está o `docker-compose.yml, isso baixará as imagens necessárias e iniciará os serviços. 🚀
+ - Execute o comando  ``` docker-compose up ``` no mesmo diretório onde está o `docker-compose.yml`, isso baixará as imagens necessárias e iniciará os serviços. 🚀
 
     - Caso tenha feito alterações na configuração ou imagem dos serviços, o Docker Compose detectará e reiniciará os containers automaticamente. Para evitar isso, use a flag `--no-recreate`.
     - Se quiser forçar a recriação de todos os containers, use a flag `--force-recreate`.
