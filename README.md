@@ -46,7 +46,7 @@ Este projeto é um sistema para controle de clientes e entregas, permitindo o ca
         ```
         docker-compose up
         ```
-  - Isso baixará as imagens necessárias e iniciará os serviços. 🚀
+   Isso baixará as imagens necessárias e iniciará os serviços. 🚀
 
     - Caso tenha feito alterações na configuração ou imagem dos serviços, o Docker Compose detectará e reiniciará os containers automaticamente. Para evitar isso, use a flag `--no-recreate`.
     - Se quiser forçar a recriação de todos os containers, use a flag `--force-recreate`.
@@ -59,7 +59,7 @@ Este projeto é um sistema para controle de clientes e entregas, permitindo o ca
   - Acesse a documentação da API de cadastro de clientes no endereço: http://localhost:8080/swagger-ui/index.html
     
    **Acesso ao banco de dados** 🚀
-    - Acesse o banco de dados da aplicação no endereço: http://localhost:8080/h2-console
+  - Acesse o banco de dados da aplicação no endereço: http://localhost:8080/h2-console
    
 
 
