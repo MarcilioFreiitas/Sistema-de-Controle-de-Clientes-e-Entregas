@@ -1,0 +1,11 @@
+version: '3.8'
+services:
+  frontend:
+    image: marcilio777/maximatech:frontend
+    ports:
+      - "4200:80"
+  backend:
+    image: marcilio777/maximatech:backend
+    ports:
+      - "8080:8080"
+
