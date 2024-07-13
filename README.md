@@ -21,7 +21,7 @@ Este projeto é um sistema para controle de clientes e entregas, permitindo o ca
 
 - API de Geocodificação do Google 🌐: Essa API é responsável por converter endereços em coordenadas geográficas (latitude e longitude). Quando um cliente é cadastrado com um endereço, você pode usar essa API para obter as coordenadas correspondentes. Isso é especialmente útil para preencher automaticamente o formulário com as informações corretas e garantir que os clientes estejam posicionados corretamente no mapa.
 
-API de clientes 🚀: O sistema possui uma API de clientes para salvar sua informações e guardar no banco de dados da aplicação.
+- API de clientes 🚀: O sistema possui uma API de clientes para salvar sua informações e guardar no banco de dados da aplicação.
 
 ## Tecnologias Utilizadas 🛠️
 
