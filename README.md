@@ -30,7 +30,7 @@ Este projeto é um sistema para controle de clientes e entregas, permitindo o ca
 - **Ferramenta de Persistência de Dados:** H2
 - **Docker:** Para criar um ambiente de desenvolvimento consistente.
 
-## Como Executar o Projeto ▶️ 
+## Como executar o projeto com Docker▶️ 
 
 
  **Baixando as imagens**:
